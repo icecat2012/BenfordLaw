@@ -21,5 +21,6 @@ DigitCount, TotalNumbers = BenfordLaw(Filename, ShowFigure)
 ```
 
 Example
-The population of the countries in the world
+The population of the countries in the world  
+
 ![image](https://github.com/icecat2012/BenfordLaw/blob/main/Population.PNG)
