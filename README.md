@@ -20,7 +20,8 @@ DigitCount, TotalNumbers = BenfordLaw(Filename, ShowFigure)
 # DigitCount is a list from 1-9. TotalNumbers is a float number.
 ```
 
-Example
+### Example
+
 The population of the countries in the world  
 
 ![image](https://github.com/icecat2012/BenfordLaw/blob/main/Population.PNG)
